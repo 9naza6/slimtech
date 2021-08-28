@@ -1,0 +1,1 @@
+<small>Estas por pagar en paypal</small>
